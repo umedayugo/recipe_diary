@@ -18,5 +18,5 @@
 
 ## 設計書
 
-### 機能一覧
-https://docs.google.com/spreadsheets/d/1C3riAsoUrC_uD6DHaMSL8a2Qk27F4kRTL044xFqGlEY/edit#gid=0
+### WBS
+https://docs.google.com/spreadsheets/d/148HZeTS0sIhJSKhz--i_VMdtPmr1TCLo3oRDzB_8D1Y/edit#gid=1773513600
